@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/BK/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 76526bb2d6f2b1d48b0bbd082ff3a407
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: 0883fdce6e0d445478686edb3b38c547
+  - enabled: 1
+    path: Assets/Scenes/SelectMap.unity
+    guid: 87127674268fe204f9564ffc427d66e0
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 128456304351d214b816b5c028dd6539
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: 72e0f898e8aa70041be6b62ce3f983a9
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 07317a3a025442f4ba1cb9aa122bffb1
+  - enabled: 1
+    path: Assets/Scenes/Ranking.unity
+    guid: 8386635193b1c624b95da4a4bb3fb499
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 03f1179a3134d14419e72c00522fe9cd
+  - enabled: 0
+    path: Assets/UnityChan2D/Demo/Scenes/Loading 1-1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/UnityChan2D/Demo/Scenes/Intro 1-1.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/UnityChan2D/Demo/Scenes/World 1-1.unity
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
